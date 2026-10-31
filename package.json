@@ -1,0 +1,10 @@
+{
+  "name": "partner-atlas",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": { "dev": "vite", "build": "vite-react-ssg build", "preview": "vite preview" },
+  "dependencies": { "react": "^18.3.1", "react-dom": "^18.3.1", "react-router-dom": "^6.26.2" },
+  "devDependencies": { "@vitejs/plugin-react": "^4.3.1", "vite": "^5.4.8", "vite-react-ssg": "^0.8.4" }
+}
