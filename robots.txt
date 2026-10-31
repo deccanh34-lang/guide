@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Add your sitemap URL after choosing a domain:
+# Sitemap: https://www.example.com/sitemap.xml
